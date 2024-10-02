@@ -1,0 +1,21 @@
+{
+  "name": "balloonuiautomation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.44.0",
+    "@types/node": "^22.5.5",
+    "playwright": "^1.44.0",
+    "typescript": "^5.6.2"
+  },
+  "dependencies": {
+    "@synthetixio/synpress": "^4.0.0-alpha.9",
+    "dotenv": "^16.4.5"
+  }
+}
